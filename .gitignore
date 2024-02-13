@@ -109,3 +109,4 @@ venv.bak/
 
 # Files and folders
 credentials/
+.ipynb_checkpoints
